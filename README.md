@@ -16,6 +16,9 @@ balance tracking.
 - [As-Is Process](04-as-is-process.md)
 - [Process Optimization](05-process-optimization.md)
 
-## Wireframes
-See the `wireframes/` folder for screen designs (Employee, Manager, HR).
 
+## Wireframes
+
+- [Employee - Request Leave](Employee%20Request%20Leave.png)
+- [Manager - Approve Leave](Manager%20-%20Approve%20Leave.png)
+- [HR - Manage Requests](HR%20-%20Manage%20Requests.png)
